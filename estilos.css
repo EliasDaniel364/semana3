@@ -1,0 +1,75 @@
+main{
+    width:100%;
+    height:auto;
+    float:left;
+}
+
+header{
+    width:100%;
+    height:auto;
+    float:left;
+}
+
+#img-header{
+    width:100%;
+    height:auto;
+    float:left;
+}
+
+#h1-header{
+    text-align: center;
+    color: grey
+}
+
+#cuerpo{
+    width:100%;
+    height: auto;
+    margin-top:5px;
+    margin-bottom:5px;
+    float: left;
+}
+
+aside{
+    width:30%;
+    height:auto;
+    border:1px dashed;
+    float: left;
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+.videos{
+    width:97.5%;
+    height: 150px;
+    margin:1%;
+    border:1px solid;
+    float: left;
+}
+
+section{
+    width:100%;
+    height:auto;
+    margin-top:10px;
+    float: left;
+}
+
+.titulo{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.parrafo{
+    text-align: justify;
+    font-size: 12px;
+}
+
+.videos{
+    width:60%;
+    height: 250px;
+    margin:10px 20% 10px 20%;
+    border-radius:20px;
+}
